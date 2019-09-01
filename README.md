@@ -4,6 +4,9 @@
 
 Link Block for the [Editor.js](https://codex.so/editor).
 
+# Changes from original
+1. Added custom onClick handle.
+
 ![](assets/gif/demo.gif)
 
 ## Features
